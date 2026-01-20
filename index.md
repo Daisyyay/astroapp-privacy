@@ -1,87 +1,127 @@
-# 隐私政策 / Privacy Policy
+隐私政策 / Privacy Policy
 
-**30天星际航行 (30-Day Stellar Voyage)**
+天问录 (Tianwen)
 
-最后更新：2025年1月 / Last Updated: January 2025
+最后更新：2026年1月 / Last Updated: January 2026
 
----
+中文版
+概述
 
-## 中文版
+《天问录》是一款完全离线运行的天文学科普与教育类应用。我们高度重视用户的隐私保护。本应用不会收集、存储或分享任何用户的个人信息。
 
-### 概述
-"30天星际航行"是一款完全离线运行的天文学教育应用。我们高度重视用户隐私，本应用不会收集、存储或分享任何个人信息。
+数据收集
 
-### 数据收集
-本应用**不收集任何用户数据**，包括但不限于：
-- 个人身份信息
-- 位置数据
-- 使用行为数据
-- 设备信息
+本应用不会收集任何用户数据，包括但不限于：
 
-### 本地存储
-您的学习进度仅存储在您的设备本地，使用 iOS 系统的 UserDefaults 功能。这些数据：
-- 不会上传至任何服务器
-- 不会与第三方共享
-- 卸载应用时会自动删除
+个人身份信息
 
-### 网络连接
-本应用完全离线运行，不需要也不会建立任何网络连接。
+位置信息
 
-### 第三方服务
-本应用不使用任何第三方分析、广告或追踪服务。
+使用行为数据
 
-### 图片来源
-应用中使用的天文图片主要来自以下公共领域资源：
-- NASA（美国国家航空航天局）
-- ESA/Hubble（欧洲空间局/哈勃望远镜）
-- ESO（欧洲南方天文台）
-- Wikimedia Commons（维基共享资源）
+设备信息
 
-所有图片均用于教育目的。
+本地存储
 
-### 联系方式
-如有任何问题，请通过以下方式联系：
-- 邮箱：daisyay2021@163.com
+本应用可能会在您的设备本地保存少量数据（例如学习进度或使用偏好），仅用于提升本地使用体验。该数据：
 
----
+仅存储在您的设备本地
 
-## English Version
+不会上传至任何服务器
 
-### Overview
-"30-Day Stellar Voyage" is an astronomy education app that runs completely offline. We take user privacy seriously and do not collect, store, or share any personal information.
+不会与任何第三方共享
 
-### Data Collection
-This app **does not collect any user data**, including but not limited to:
-- Personal identification information
-- Location data
-- Usage behavior data
-- Device information
+在您卸载应用时将被系统自动删除
 
-### Local Storage
-Your learning progress is stored only on your device using iOS UserDefaults. This data:
-- Is never uploaded to any server
-- Is never shared with third parties
-- Is automatically deleted when you uninstall the app
+网络连接
 
-### Network Connection
-This app runs completely offline and does not require or establish any network connections.
+本应用为纯本地运行应用，不会主动建立任何网络连接，也不依赖任何在线服务。
 
-### Third-Party Services
-This app does not use any third-party analytics, advertising, or tracking services.
+第三方服务
 
-### Image Credits
-Astronomical images used in this app are primarily from public domain sources:
-- NASA (National Aeronautics and Space Administration)
-- ESA/Hubble (European Space Agency)
-- ESO (European Southern Observatory)
-- Wikimedia Commons
+本应用不接入任何第三方分析、广告、统计、推送或追踪服务。
 
-All images are used for educational purposes.
+图片与内容来源说明
 
-### Contact
-For any questions, please contact:
-- Email: daisyay2021@163.com
+本应用中的部分天文图片及科普素材来自以下公开或可合法使用的资源平台：
 
----
+NASA（美国国家航空航天局，部分内容属于公共领域 Public Domain）
 
-© 2025 All Rights Reserved.
+Wikimedia Commons（维基共享资源，遵循其对应的开放许可协议）
+
+其他标注为公共领域（Public Domain）或允许用于教育与科普用途的公开资源
+
+所有素材仅用于科普与教育目的。如涉及署名要求的内容，我们已按照来源平台的许可协议进行标注。
+
+如您认为本应用中存在任何可能侵犯您权益的内容，请通过下方联系方式与我们联系，我们将在核实后及时处理。
+
+隐私权利
+
+由于本应用不收集、存储或处理任何个人信息，因此不存在个人信息查询、更正或删除的需求。
+
+联系方式
+
+如您对本隐私政策有任何疑问，请通过以下方式联系我们：
+📧 邮箱：tianwenlu2026@163.com
+
+English Version
+Overview
+
+"Tianwen" is an astronomy education app that runs completely offline. We take user privacy very seriously. This app does not collect, store, or share any personal information.
+
+Data Collection
+
+This app does not collect any user data, including but not limited to:
+
+Personal identification information
+
+Location data
+
+Usage behavior data
+
+Device information
+
+Local Storage
+
+This app may store a small amount of data locally on your device (such as learning progress or preferences) solely to improve the user experience. This data:
+
+Is stored only on your device
+
+Is never uploaded to any server
+
+Is never shared with third parties
+
+Is automatically deleted when you uninstall the app
+
+Network Connection
+
+This app runs entirely offline and does not require or establish any network connections.
+
+Third-Party Services
+
+This app does not use any third-party analytics, advertising, tracking, or push notification services.
+
+Image and Content Sources
+
+Some astronomical images and educational materials used in this app are obtained from publicly available or legally usable sources, including:
+
+NASA (National Aeronautics and Space Administration, some content is in the public domain)
+
+Wikimedia Commons (used in accordance with their respective open licenses)
+
+Other publicly available resources labeled as Public Domain or permitted for educational use
+
+All materials are used for educational and non-commercial purposes. Where attribution is required, it is provided according to the source license.
+
+If you believe any content in this app infringes your rights, please contact us and we will take prompt action after verification.
+
+Privacy Rights
+
+Since this app does not collect or process any personal information, there is no need for data access, correction, or deletion requests.
+
+Contact
+
+If you have any questions about this Privacy Policy, please contact:
+📧 Email: tianwenlu2026@163.com
+
+© 2026 Tianwen. All rights reserved.
